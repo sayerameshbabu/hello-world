@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 this is from user2
+>>>>>>> e79806f0292c559081d5ffb7329e266611fc0d3d
