@@ -1,3 +1,3 @@
-installing ....# maven-project
+# maven-project
 
 Simple Maven Project - testing...
